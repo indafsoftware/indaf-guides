@@ -1,9 +1,9 @@
 # General Overview
 https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=573989a5-72d7-4e97-aba3-af2e009a75d6
 # Questions with Subcategories
-https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3ec2d2f3-397b-4a70-8cc0-af2e00aad96a
+https://youtu.be/vtb5ugyjSDw
 # Optional Questions 
-https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=87f4afc6-f991-431b-8d9d-af2e00a1227f
+https://youtu.be/J0Zq5_twMjU
 # Essay Based Questions
 https://youtu.be/PdubTpXl4JE
 # Multiple Markers
