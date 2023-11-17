@@ -13,4 +13,4 @@ https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4bb63ee9-8a89-4d01-b
 # Upload Feedback Reports to Learn
 https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7d621ae-5127-4be9-b7d5-af3c00daee37
 # INDAF 2.0: Updates
-https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7d621ae-5127-4be9-b7d5-af3c00daee37
+https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c25c2802-48ac-4579-a3ca-b0bc0138f771
