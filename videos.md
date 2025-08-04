@@ -13,6 +13,6 @@ https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa3db4da-0ffd-4871-8
 # Upload Feedback Reports to Learn
 https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b44f6115-94ef-4957-8a42-b32500bdada4
 # Moderation
-https://www.lboro.ac.uk/
+https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f44f8d5d-3cb2-4707-a9c8-b32f00a1d385
 # INDAF 2.0: Updates
 https://lboro.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c25c2802-48ac-4579-a3ca-b0bc0138f771
